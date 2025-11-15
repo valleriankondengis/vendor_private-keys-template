@@ -10,7 +10,15 @@ git clone https://github.com/kenaidi01/vendor_private-keys-template.git vendor/p
 cd vendor/private-keys/keys
 ```
 
+```bash
+chmod +x keys.sh
 ```
+
+```bash
+chmod +x make_key.sh
+```
+
+```bash
 ./keys.sh
 ```
 
